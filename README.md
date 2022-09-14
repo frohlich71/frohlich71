@@ -1,4 +1,4 @@
-## Hi Im Victor Frohlich, full-stack Developer.
+## Hi Im Victor Frohlich, React && C# DEV.
 
 <div align="center">
   <a href="https://github.com/frohlich71">
