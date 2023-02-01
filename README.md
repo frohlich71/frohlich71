@@ -1,4 +1,4 @@
-## Hi Im Victor Frohlich, React && Java || C# DEV.
+## Hi Im Victor Frohlich, (React || Java || C#) DEV.
 
 <div align="center">
   <a href="https://github.com/frohlich71">
