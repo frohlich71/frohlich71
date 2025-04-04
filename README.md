@@ -1,4 +1,4 @@
-## Hi Im Victor Frohlich, (TypeScript || Java || C#) DEV.
+## Hi Im Victor Frohlich, (TypeScript || Java || Python) DEV.
 
 <div align="center">
   <a href="https://github.com/frohlich71">
